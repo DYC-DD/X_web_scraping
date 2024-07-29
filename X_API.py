@@ -1,1 +1,3 @@
-# 抓取X上的資料
+#導入X API
+import tweepy
+
